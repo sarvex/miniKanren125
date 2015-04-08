@@ -1,6 +1,6 @@
-C
+MiniKanren
 ======
-Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) in C
+Trying to complete 125 projects from in MiniKanren
 
 Numbers
 ---------
